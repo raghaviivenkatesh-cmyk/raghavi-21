@@ -9,3 +9,7 @@ welcome("Java")
 def thanks():
     print("Thank you"):
 thanks()
+
+def hi(name):
+   print("hi",name)
+greet("yashas")

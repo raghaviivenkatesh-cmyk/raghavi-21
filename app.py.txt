@@ -5,3 +5,7 @@ greet ("yashas")
 def welcome(course):
    print("welcome to",course)
 welcome("Java")
+
+def thanks():
+    print("Thank you"):
+thanks()
